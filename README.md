@@ -108,4 +108,6 @@ success “
 
 然后再到cmd模式下 执行 nmp install 成功
 
+look at link https://blog.csdn.net/li15809284891/article/details/79629190
+
 
