@@ -1,5 +1,5 @@
-# installe-generate-rsa-keypair-fial
-installe generate-rsa-keypair fial
+# installe-generate-rsa-keypair-fail
+installe generate-rsa-keypair fail
 
 ## Error
 ```
